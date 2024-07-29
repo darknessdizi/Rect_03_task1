@@ -1,6 +1,10 @@
 Рейтинг фильмов
 ===
 
+[![Build status](https://ci.appveyor.com/api/projects/status/cm1uk82w5n7i5u52?svg=true)](https://ci.appveyor.com/project/darknessdizi/rect-03-task1)
+
+*Ссылка на страницу:* https://darknessdizi.github.io/Rect_03_task1/
+
 Необходимо реализовать компонент, отображающий рейтинг фильма в виде звёзд:
 ![Список фильмов](./assets/preview.png)
 
